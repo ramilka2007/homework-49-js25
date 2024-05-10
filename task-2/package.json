@@ -9,7 +9,7 @@
     "board": "node board.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Umarov Ramil",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^3.1.0",
